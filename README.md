@@ -1,13 +1,6 @@
-### Hi there 👋
-
-
-
-- 🔭 I’m currently working on Capgemini Engineering
-- 🌱 I’m currently learning PL/Sql, SQL, Python, T-SQL, R, PowerBi
-- 📫 How to reach me: luis.pedro_1998@hotmail.com
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Luis-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg">
-  <img align="center" alt="Luis-Csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-</div>
+### Hi there 👋 
+My name is Luis Pedro, and I am just trying to evolve in the Tech Field.
+## Stats
+[![luispedro30's GitHub stats](https://github-readme-stats.vercel.app/api?username=luispedro30&show_icons=true&theme=dracula&count_private=true)]
+## Languages 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luispedro30&layout=compact&hide=css,html,handlebars)]
