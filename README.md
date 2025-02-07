@@ -15,7 +15,7 @@ Currently, I work at **Universo (Sonae/Bankinter)**, focusing on **Core Banking 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luispedro30&layout=compact&hide=css,html,handlebars)]  
 
 📫 **Let's connect!**  
-🔗 [LinkedIn]([https://www.linkedin.com/in/luis-silva/](https://www.linkedin.com/in/luis-silva-49709b168/))  
+🔗 [LinkedIn]((https://www.linkedin.com/in/luis-silva-49709b168/))  
 
 ---
 
